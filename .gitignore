@@ -1,0 +1,6 @@
+# Archivos de compilacion de Arduino / PlatformIO
+build/
+.pio/
+.vscode/
+*.bin
+*.elf
